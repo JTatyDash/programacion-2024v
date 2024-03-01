@@ -6,7 +6,8 @@
   "scripts": {
     "app": "node app.js",
     "sum": "node operation/sum.js",
-    "sub": "node operation/basic/sub.js"
+    "sub": "node operation/basic/sub.js",
+    "mul": "node operation/mul.js"
   },
   "keywords": [],
   "author": "Jenny",
