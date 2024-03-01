@@ -7,7 +7,7 @@
     "app": "node app.js",
     "sum": "node operation/sum.js",
     "sub": "node operation/basic/sub.js",
-    "mul": "node mul.js"
+    "mul": "node operation/mul.js"
   },
   "keywords": [],
   "author": "Jenny",
