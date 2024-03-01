@@ -1,0 +1,14 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "node app.js",
+    "sum": "node operation/sum.js",
+    "sub": "node operation/basic/sub.js"
+  },
+  "keywords": [],
+  "author": "Jenny",
+  "license": "ISC"
+}
