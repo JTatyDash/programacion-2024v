@@ -2,14 +2,11 @@
   "name": "hola",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "app": "node app.js",
-    "sum": "node operation/sum.js",
-    "sub": "node operation/basic/sub.js",
-    "mul": "node operation/mul.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Jenny",
+  "author": "",
   "license": "ISC"
 }
